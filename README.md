@@ -8,7 +8,7 @@ NFID Vaults (https://nfidvaults.com) is an omni-chain smart wallet protocol for 
 
 ### Get a list of all vault canisters from the NFID Vault protocol canister
 1. Navigate to the [candid UI explorer](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.ic0.app/)
-2. Enter the NFID Vault protocol canister ID (`z2cpg-maaaa-aaaal-adx2q-cai`) and `vault_manager.did` from this repo
+2. Enter the NFID Vault protocol canister ID (`4bgdx-hqaaa-aaaar-qaeqq-cai`) and `vault_manager.did` from this repo
 3. Query the `get_all_canisters` function to get all canister_id principals
 
 ### Query wallet addresses from each vault canister
